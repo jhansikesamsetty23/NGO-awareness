@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f9f4;
+    margin: 20px;
+    color: #333;
+}
+
+h1{
+    text-align: center;
+    color: darkgreen;
+}
+
+h2{
+    color: #2e8b57;
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul{
+    font-size: 18px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: darkgreen;
+}
+
+hr{
+    border: 1px solid #ccc;
+}
